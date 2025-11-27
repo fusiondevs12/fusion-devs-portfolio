@@ -21,7 +21,7 @@ A responsive one-page portfolio website built with pure HTML, CSS, and JavaScrip
 
 ## 👨‍💻 Team Members
 - David - Team Lead, CSS Design, HTML
-- Kostya - Co-Lead, HTML Architecture, CSS, Python
+- Kostia - Co-Lead, HTML Architecture, CSS, Python
 - Egor - JavaScript Logic, Interactive Features
 - Arseniy - Python Development, Content
 
