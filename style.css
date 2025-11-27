@@ -1,0 +1,109 @@
+header {
+    background-color: #41006C;
+    color: white;
+    padding: 70px;
+}
+
+header h1 {
+    font-size: 128px;
+    font-family: "Josefin Sans", sans-serif;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+h3 {
+    font-family: "Jost", sans-serif;
+    font-size: 32px;
+}
+
+h4, a {
+    font-family: "Jost", sans-serif;
+    font-size: 24px;
+}
+
+p {
+    font-family: "Jost", sans-serif;
+    font-size: 24px;
+}
+
+header p {
+    font-family: "Jost", sans-serif;
+}
+
+body {
+    background-color: #E3B9FF;
+    text-align: center;
+}
+
+main {
+    color: #41006C
+}
+
+footer {
+    color: #41006C;
+    background-color: #D493FF;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+main, footer {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+h2 {
+    font-size: 36px;
+    font-family: "Jost", sans-serif;
+}
+
+#about-us {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#skills-list {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#api-block {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+hr {
+    height: 3px;
+    background-color: #D493FF; 
+}
+
+a {
+text-decoration: none;
+color: #41006C;
+}
+
+.btn-transition1, .btn-transition2 {
+    background-color: #c46aff; 
+    padding: 5px;
+    margin: 5px;
+    border-radius: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    border: none;
+    cursor: pointer
+}
+
+#quote-container p {
+    text-align: right;
+}
+
+.btn-transition1:hover, .btn-transition2:hover {
+    background-color: #b443ff; /* Новый цвет фона при наведении */
+    transform: scale(1.1); /* Увеличение кнопки на 10% */
+    cursor: pointer
+}
+
+.btn-transition1:active, .btn-transition2:active {
+    transform: scale(0.9); /* Уменьшение при нажатии для эффекта "нажатия" */
+    cursor: pointer
+}
