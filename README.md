@@ -39,9 +39,6 @@ fusion-devs-portfolio/
 - Secondary: #E3B9FF (Light Purple)
 - Accent: #D493FF (Medium Purple)
 
-## 🌐 Live Demo
-[Add your GitHub Pages link here]
-
 ## 📞 Contact Us
 - YouTube: [@WeAreFusionDevs](http://www.youtube.com/@WeAreFusionDevs)
 - Email: wearefusiondevs@gmail.com
